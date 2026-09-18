@@ -2,10 +2,10 @@
 
 ## Student Details
 
-**Name:** Sree Lasya Muvva  
-**Student ID:** 2026204009 
-**Course:** Software Systems and Development 
-**Lab Activity:** MERN Stack CRUD App  
+**Name:** Sree Lasya Muvva  <br>
+**Student ID:** 2026204009 <br>
+**Course:** Software Systems and Development <br>
+**Lab Activity:** MERN Stack CRUD App  <br>
 
 **GitHub Repository:** https://github.com/sreelasyamuvva/notes-app
 
