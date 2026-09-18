@@ -4,7 +4,7 @@
 
 **Name:** Sree Lasya Muvva  
 **Student ID:** 2026204009 
-**Course:** Full-Stack Cloud Architectures  
+**Course:** Software Systems and Development 
 **Lab Activity:** MERN Stack CRUD App  
 
 **GitHub Repository:** https://github.com/sreelasyamuvva/notes-app
